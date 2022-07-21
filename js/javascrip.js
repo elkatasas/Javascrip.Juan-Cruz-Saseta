@@ -1,3 +1,23 @@
+const Producto =[
+    {
+        id: 1,
+        name:"CPU RYZEN 5 3400",
+        precio: 34000,
+    },
+
+    {
+        id: 2,
+        name:"Monitor ReDragon 24",
+        precio: 60000
+    },
+
+    {
+        id: 3,
+        name:"Gabinete Corsair FUSION",
+        precio: 19000
+    }
+]
+const cart = [];
 
 function calcular__interes(){
     let Dinero = document.getElementById("Dinero").value
