@@ -17,6 +17,7 @@ const Producto =[
         precio: 19000
     }
 ]
+alert ("Bienvenido a SASEtecnology" );
 const cart = [];
 
 function calcular__interes(){
